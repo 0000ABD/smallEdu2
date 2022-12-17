@@ -1,0 +1,17 @@
+D:\Visual Studio Software\Software\smallEdu\smallEdu\bin\Debug\net6.0-windows\smallEdu.exe
+D:\Visual Studio Software\Software\smallEdu\smallEdu\bin\Debug\net6.0-windows\smallEdu.deps.json
+D:\Visual Studio Software\Software\smallEdu\smallEdu\bin\Debug\net6.0-windows\smallEdu.runtimeconfig.json
+D:\Visual Studio Software\Software\smallEdu\smallEdu\bin\Debug\net6.0-windows\smallEdu.dll
+D:\Visual Studio Software\Software\smallEdu\smallEdu\bin\Debug\net6.0-windows\smallEdu.pdb
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.csproj.AssemblyReference.cache
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.smallEdu.resources
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.csproj.GenerateResource.cache
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.AssemblyInfoInputs.cache
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.AssemblyInfo.cs
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.csproj.CoreCompileInputs.cache
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.dll
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\refint\smallEdu.dll
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.pdb
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\smallEdu.genruntimeconfig.cache
+D:\Visual Studio Software\Software\smallEdu\smallEdu\obj\Debug\net6.0-windows\ref\smallEdu.dll

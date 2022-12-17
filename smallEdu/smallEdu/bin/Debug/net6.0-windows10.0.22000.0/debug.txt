@@ -1,0 +1,20 @@
+Standard Counts : 18
+Standard : LKG
+Standard : UKG
+Standard : KG
+Standard : Nurssery
+Standard : I
+Standard : II
+Standard : III
+Standard : IV
+Standard : V
+Standard : VI
+Standard : VII
+Standard : VIII
+Standard : IX
+Standard : X
+Standard : XI
+Standard : XII
+Standard : Bachelor
+Standard : Master
+Standard : Select

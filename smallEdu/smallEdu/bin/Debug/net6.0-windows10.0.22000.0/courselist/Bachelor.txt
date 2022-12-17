@@ -1,0 +1,11 @@
+BA
+BBA
+BCA
+B.Com
+B.Sc
+CE
+CSE
+ECE
+EEE
+IT
+ME
