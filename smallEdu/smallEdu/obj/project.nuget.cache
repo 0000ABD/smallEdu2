@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKj4ElD+Pv2vGDM1pIuwJ8zi6zNaJWjL9y3YrNRsE4UcPNFoyyQubU4mxt0J/fo7r6fQVbRvZyBrC3bd3eCN4A==",
+  "dgSpecHash": "wqzfmXuqXiThYAlW4hj9rN6qg7H+i1YMJFMbUsKxpw2dmInShlAcv5wJpyVjoOG6l8HH82YIDEu44DVEZv977g==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Software\\Software\\repo\\smallEducation\\smallEdu\\smallEdu\\smallEdu.csproj",
+  "projectFilePath": "D:\\Visual Studio Software\\Software\\repo\\smallEdu2\\smallEdu\\smallEdu\\smallEdu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win10\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\win10\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

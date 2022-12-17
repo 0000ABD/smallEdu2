@@ -12,7 +12,7 @@ namespace smallEdu
         public static st_Standards st_StdCount;
         private DebugLogger log;
         private offlineDatabase offlineData = null;
-        public smallEdu()
+        public smallEdu(string s_dataBasePath)
         {
             InitializeComponent();
            
@@ -23,11 +23,12 @@ namespace smallEdu
             }
             st_StdCount = new st_Standards(this.CB_newStudentStanderd.Items.Count - 1, this.CB_newStudentStanderd.Items );
             log.logDebugStatement("Standard Counts : " + st_StdCount.int_Standards.ToString()+System.Environment.NewLine);
-
-              lbDataBase = new LocalDatabase();
+#if false
+            lbDataBase = new LocalDatabase();
              lbDataBase.initDataBase();
             offlineData = new offlineDatabase();
             offlineData.createOfflineDataBase();
+#endif
 
 
 

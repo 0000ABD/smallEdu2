@@ -16,13 +16,14 @@ namespace smallEdu
 
 		public void createOfflineDataBase()
 		{
-
+#if false
 			if(Directory.Exists(Mislaneous.dataBaseDirectory) == false)
             {
 				log.logDebugStatement("Directory : " + Mislaneous.dataBaseDirectory + "has beed created.");
 				Directory.CreateDirectory(Mislaneous.dataBaseDirectory);
 
-            }		
+            }	
+#endif
 		}
 
 
